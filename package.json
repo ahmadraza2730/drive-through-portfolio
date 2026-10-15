@@ -1,0 +1,35 @@
+{
+  "name": "drive-through-portfolio",
+  "version": "1.0.0",
+  "description": "An interactive 3D portfolio. Instead of scrolling a page, you drive a Suzuki Alto Works (a 3D model of the real car) through a world where each stop is one part of my work.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadraza2730/drive-through-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "3d",
+    "interactive",
+    "threejs",
+    "webgl"
+  ],
+  "author": "Muhammad Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadraza2730/drive-through-portfolio/issues"
+  },
+  "homepage": "https://github.com/ahmadraza2730/drive-through-portfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
